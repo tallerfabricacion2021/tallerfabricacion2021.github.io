@@ -61,5 +61,32 @@
       <description>Ejemplo de mecanizado de silla.</description>
     </item>
     
+    <item>
+      <title>3 - Mecanizado 2.5</title>
+      <link>https://tallerfabricacion2021.github.io/docs/tutoriales-encargo3/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://tallerfabricacion2021.github.io/docs/tutoriales-encargo3/</guid>
+      <description>Video Tutoriales del módulo de Desbaste CNC.</description>
+    </item>
+    
+    <item>
+      <title>4 - Simulación 3D</title>
+      <link>https://tallerfabricacion2021.github.io/docs/tutoriales-encargo4/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://tallerfabricacion2021.github.io/docs/tutoriales-encargo4/</guid>
+      <description>Subtítulo.</description>
+    </item>
+    
+    <item>
+      <title>5 - Impresión 3D</title>
+      <link>https://tallerfabricacion2021.github.io/docs/tutoriales-encargo5/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://tallerfabricacion2021.github.io/docs/tutoriales-encargo5/</guid>
+      <description>Subtítulo.</description>
+    </item>
+    
   </channel>
 </rss>
