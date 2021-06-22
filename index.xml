@@ -62,7 +62,7 @@
     </item>
     
     <item>
-      <title>3 - Mecanizado 2.5</title>
+      <title>3 - Mecanizado 2.5 Ejes</title>
       <link>https://tallerfabricacion2021.github.io/docs/tutoriales-encargo3/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
@@ -71,7 +71,7 @@
     </item>
     
     <item>
-      <title>4 - Simulación 3D</title>
+      <title>4 - Simulación</title>
       <link>https://tallerfabricacion2021.github.io/docs/tutoriales-encargo4/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
@@ -85,6 +85,15 @@
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://tallerfabricacion2021.github.io/docs/tutoriales-encargo5/</guid>
+      <description>Subtítulo.</description>
+    </item>
+    
+    <item>
+      <title>6 - Complementarios</title>
+      <link>https://tallerfabricacion2021.github.io/docs/tutoriales-encargo6/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://tallerfabricacion2021.github.io/docs/tutoriales-encargo6/</guid>
       <description>Subtítulo.</description>
     </item>
     
